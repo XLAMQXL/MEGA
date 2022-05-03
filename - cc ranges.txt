@@ -1,0 +1,183 @@
+3782 xxxxxx xxxxx - AmEx - Small Corporate Card
+3787 xxxxxx xxxxx - AmEx - Small Corporate Card
+37x8 xxxxxx xxxxx - AmEx Gold
+37x3 7xxxxx xxxxx - AmEx Platinum
+37xx xxxxxx 11xxx - AmEx issued since 1995
+37xx xxxxxx xxxxx - AmEx
+3xxxxx xxxxxxxx xxxxxxxx - AmEx Gold
+30xxx xxxx xxxxx - Diners Club
+31xxx xxxx xxxxx - Diners Club
+35xxx xxxx xxxxx - Diners Club
+36xxx xxxx xxxxx - Diners Club
+38xxx xxxx xxxxx - Carte Blanche
+35xx xxxx xxxx xxxx - JCB (Japanese Credit Bureau)
+4024 0238 xxxx xxxx - Visa Gold - Bank of America
+4019 xxxx xxxx xxxx - Visa CV/Gold - Bank of America
+4024 xxxx xxxx xxxx - Visa PV - Bank of America
+4040 xxxx xxxx xxxx - Visa CV - Wells Fargo
+4048 xxxx xxxx xxxx - Visa CV
+4024 0071 xxxx xxxx - Visa - Wells Fargo
+4013 xxxx xxxx xxxx - Visa - Citibank
+4019 xxxx xxxx xxxx - Visa - Bank of America
+4024 xxxx xxxx xxxx - Visa - Bank of America
+4027 xxxx xxxx xxxx - Visa - Rockwell Federal Credit Union
+4032 xxxx xxxx xxxx - Visa - Household Bank
+4052 xxxx xxxx xxxx - Visa - First Cincinnati
+4060 xxxx xxxx xxxx - Visa - Associates National Bank
+4070 xxxx xxxx xxxx - Visa - Security Pacific
+4071 xxxx xxxx xxxx - Visa - Colonial National Bank
+4094 xxxx xxxx xxxx - Visa - A.M.C. Federal Credit Union
+4113 xxxx xxxx xxxx - Visa - Valley National Bank
+4114 xxxx xxxx xxxx - Visa - Chemical Bank
+4121 xxxx xxxx xxxx - Visa - Pennsylvania State Employees Credit Union
+4121 xxxx xxxx xxxx - Visa CV - Signet Bank
+4122 xxxx xxxx xxxx - Visa - Union Trust
+4125 xxxx xxxx xxxx - Visa - Marine Midland
+4128 xxx xxx xxx - Visa CV - Citibank
+4128 xxxx xxxx xxxx - Visa CV - Citibank
+4131 xxxx xxxx xxxx - Visa - State Street Bank
+4225 xxxx xxxx xxxx - Visa - Chase Manhattan Bank
+4226 xxxx xxxx xxxx - Visa - Chase Manhattan Bank
+4231 xxxx xxxx xxxx - Visa - Chase Lincoln First Classic
+4232 xxxx xxxx xxxx - Visa - Chase Lincoln First Classic
+4239 xxxx xxxx xxxx - Visa - Corestates
+4241 xxxx xxxx xxxx - Visa - National Westminster Bank
+4250 xxxx xxxx xxxx - Visa - First Chicago Bank
+4253 xxxx xxxx xxxx - Visa - Consumers Edge
+4254 5123 6000 xxxx - Visa Premier card - Security First
+4254 5123 8500 xxxx - Visa Premier card - Security First
+4254 xxxx xxxx xxxx - Visa - Security First
+4271 382x xxxx xxxx - Visa PV - Citibank
+4271 xxxx xxxx xxxx - Visa - Citibank/Citicorp
+4301 xxxx xxxx xxxx - Visa - Monogram Bank
+4302 xxxx xxxx xxxx - Visa - H.H.B.C.
+4311 xxxx xxxx xxxx - Visa - First National Bank of Louisville
+4317 xxxx xxxx xxxx - Visa - Gold Dome
+4327 xxxx xxxx xxxx - Visa - First Atlanta
+4332 xxxx xxxx xxxx - Visa - First American Bank
+4339 xxxx xxxx xxxx - Visa - Primerica Bank
+4342 xxxx xxxx xxxx - Visa - N.C.M.B. / Nations Bank
+4356 xxxx xxxx xxxx - Visa - National Bank of Delaware
+4368 xxxx xxxx xxxx - Visa - National West
+4387 xxxx xxxx xxxx - Visa - Bank One
+4388 xxxx xxxx xxxx - Visa - First Signature Bank & Trust
+4401 xxxx xxxx xxxx - Visa - Gary-Wheaton Bank
+4413 xxxx xxxx xxxx - Visa - Firstier Bank Lincoln
+4418 xxxx xxxx xxxx - Visa - Bank of Omaha
+4421 xxxx xxxx xxxx - Visa - Indiana National Bank
+4424 xxxx xxxx xxxx - Visa - Security Pacific National Bank
+4428 xxxx xxxx xxxx - Visa - Bank of Hoven
+4436 xxxx xxxx xxxx - Visa - Security Bank & Trust
+4443 xxxx xxxx xxxx - Visa - Merril Lynch Bank & Trust
+4447 xxxx xxxx xxxx - Visa - AmeriTrust
+4448 020 xxx xxx - Visa Premier card
+4452 xxxx xxxx xxxx - Visa - Empire Affiliates Federal Credit Union
+4498 xxxx xxxx xxxx - Visa - Republic Savings
+4502 xxxx xxxx xxxx - Visa - C.I.B.C.
+4503 xxxx xxxx xxxx - Visa - Canadian Imperial Bank
+4506 xxxx xxxx xxxx - Visa - Belgium A.S.L.K.
+4510 xxxx xxxx xxxx - Visa - Royal Bank of Canada
+4520 xxxx xxxx xxxx - Visa - Toronto Dominion of Canada
+4537 xxxx xxxx xxxx - Visa - Bank of Nova Scotia
+4538 xxxx xxxx xxxx - Visa - Bank of Nova Scotia
+4539 xxxx xxxx xxxx - Visa - Barclays (UK)
+4543 xxxx xxxx xxxx - Visa - First Direct
+4544 xxxx xxxx xxxx - Visa - T.S.B. Bank
+4556 xxxx xxxx xxxx - Visa - Citibank
+4564 xxxx xxxx xxxx - Visa - Bank of Queensland
+4673 xxxx xxxx xxxx - Visa - First Card
+4678 xxxx xxxx xxxx - Visa - Home Federal
+4707 xxxx xxxx xxxx - Visa - Tompkins County Trust
+4712 1250 xxxx xxxx - Visa - IBM Credit Union
+4719 xxxx xxxx xxxx - Visa - Rocky Mountain
+4721 xxxx xxxx xxxx - Visa - First Security
+4722 xxxx xxxx xxxx - Visa - West Bank
+4726 xxxx xxxx xxxx - Visa CV - Wells Fargo
+4783 xxxx xxxx xxxx - Visa - AT&T's Universal Card
+4784 xxxx xxxx xxxx - Visa - AT&T's Universal Card
+4800 xxxx xxxx xxxx - Visa - M.B.N.A. North America
+4811 xxxx xxxx xxxx - Visa - Bank of Hawaii
+4819 xxxx xxxx xxxx - Visa - Macom Federal Credit Union
+4820 xxxx xxxx xxxx - Visa - IBM Mid America Federal Credit Union
+4833 xxxx xxxx xxxx - Visa - U.S. Bank
+4842 xxxx xxxx xxxx - Visa - Security Pacific Washington
+4897 xxxx xxxx xxxx - Visa - Village Bank of Chicago
+4921 xxxx xxxx xxxx - Visa - Hong Kong National Bank
+4929 xxxx xxxx xxxx - Visa CV - Barclay Card (UK)
+4539 9710 xxxx xxxx - Visa - Banco di Napoli (Italy)
+4557 xxxx xxxx xxxx - Visa - BNL (Italy)
+4908 xxxx xxxx xxxx - Visa - Carta Moneta, CARIPLO/Intesa (Italy)
+4xxx 9x60 4015 xxxx - Visa - Carta S?, Unipol Banca (Italy)
+4xxx 9x14 4046 xxxx - Visa - Carta S?, Banco di Sardegna (Italy)
+4xxx 9xxx 40xx xxxx - Visa - Carta S? (Italy)
+4532 xxxx xxxx xxxx - Visa - Credito Italiano (Italy)
+4547 5900 xxxx xxxx - Visa Gold - bank ganadero BBV (Colombia)
+4916 xxxx xxxx xxxx - Visa - MBNA Bank
+4xxx xxx xxx xxxx - Visa
+4xxx xxxx xxxx xxxx - Visa
+5031 xxxx xxxx xxxx - MasterCard - Maryland of North America
+5100 xxxx xxxx xxxx - MasterCard - Southwestern States Bankard Association
+5110 xxxx xxxx xxxx - MasterCard - Universal Travel Voucher
+5120 xxxx xxxx xxxx - MasterCard - Western States Bankard Association
+5130 xxxx xxxx xxxx - MasterCard - Eurocard France
+5140 xxxx xxxx xxxx - MasterCard - Mountain States Bankard Association
+5150 xxxx xxxx xxxx - MasterCard - Credit Systems, Inc.
+5160 xxxx xxxx xxxx - MasterCard - Westpac Banking Corporation
+5170 xxxx xxxx xxxx - MasterCard - Midamerica Bankard Association
+5172 xxxx xxxx xxxx - MasterCard - First Bank Card Center
+518x xxxx xxxx xxxx - MasterCard - Computer Communications of America
+519x xxxx xxxx xxxx - MasterCard - Bank of Montreal
+5201 xxxx xxxx xxxx - MasterCard - Mellon Bank, N.A.
+5202 xxxx xxxx xxxx - MasterCard - Central Trust Company, N.A.
+5204 xxxx xxxx xxxx - MasterCard - Security Pacific National Bank
+5205 xxxx xxxx xxxx - MasterCard - Promocion y Operacion, S.A.
+5206 xxxx xxxx xxxx - MasterCard - Banco Nacional do Mexico
+5207 xxxx xxxx xxxx - MasterCard - New England Bankard Association
+5208 xxxx xxxx xxxx - MasterCard - Million Card Service Co., Ltd.
+5209 xxxx xxxx xxxx - MasterCard - The Citizens & Southern National Bank
+5210 xxxx xxxx xxxx - MasterCard - Kokunai Shinpan Company, Ltd.
+5211 xxxx xxxx xxxx - MasterCard - Chemical Bank Delaware
+5212 xxxx xxxx xxxx - MasterCard - F.C.C. National Bank
+5213 xxxx xxxx xxxx - MasterCard - The Bankcard Association, Inc.
+5215 xxxx xxxx xxxx - MasterCard - Marine Midland Bank, N.A.
+5216 xxxx xxxx xxxx - MasterCard - Old Kent Bank & Trust Co.
+5217 xxxx xxxx xxxx - MasterCard - Union Trust
+5218 xxxx xxxx xxxx - MasterCard - Citibank/Citicorp
+5219 xxxx xxxx xxxx - MasterCard - Central Finance Co., Ltd.
+5220 xxxx xxxx xxxx - MasterCard - Sovran Bank/Central South
+5221 xxxx xxxx xxxx - MasterCard - Standard Bank of South Africa, Ltd.
+5222 xxxx xxxx xxxx - MasterCard - Security Bank & Trust Company
+5223 xxxx xxxx xxxx - MasterCard - Trustmark National Bank
+5224 xxxx xxxx xxxx - MasterCard - Midland Bank
+5225 xxxx xxxx xxxx - MasterCard - First Pennsylvania Bank, N.A.
+5226 xxxx xxxx xxxx - MasterCard - Eurocard Ab
+5227 xxxx xxxx xxxx - MasterCard - Rocky Mountain Bankcard System, Inc.
+5228 xxxx xxxx xxxx - MasterCard - First Union National Bank of North Carolina
+5229 xxxx xxxx xxxx - MasterCard - Sunwest Bank of Albuquerque, N.A.
+5230 xxxx xxxx xxxx - MasterCard - Harris Trust & Savings Bank
+5231 xxxx xxxx xxxx - MasterCard - Badische Beamtenbank EG
+5232 xxxx xxxx xxxx - MasterCard - Eurocard Deutschland
+5233 xxxx xxxx xxxx - MasterCard - Computer Systems Association, Inc.
+5234 xxxx xxxx xxxx - MasterCard - Citibank Arizona
+5235 xxxx xxxx xxxx - MasterCard - Financial Transaction System, Inc.
+5236 xxxx xxxx xxxx - MasterCard - First Tennessee Bank, N.A.
+5254 xxxx xxxx xxxx - MasterCard - Bank of America
+5273 xxxx xxxx xxxx - MasterCard (can be Gold) - Bank of America
+5286 xxxx xxxx xxxx - MasterCard - Home Federal
+5291 xxxx xxxx xxxx - MasterCard - Signet Bank
+5329 xxxx xxxx xxxx - MasterCard - Maryland of North America
+5404 xxxx xxxx xxxx - MasterCard - Lloyds Bank (UK)
+5410 xxxx xxxx xxxx - MasterCard - Wells Fargo
+5412 xxxx xxxx xxxx - MasterCard - Wells Fargo
+5419 xxxx xxxx xxxx - MasterCard - Bank of Hoven
+5424 xxxx xxxx xxxx - MasterCard - Citibank/Citicorp
+5434 xxxx xxxx xxxx - MasterCard - National Westminster Bank
+5465 xxxx xxxx xxxx - MasterCard - Chase Manhattan
+5255 0114 xxxx xxxx - MasterCard - Banco di Sardegna (Italy)
+5306 93xx xxxx xxxx - MasterCard - Bancolombia Cadenalco (Colombia)
+5406 251x xxxx xxxx - MasterCard - Banco de Occidente (Colombia)
+5426 xxxx xxxx xxxx - MasterCard - Granahorrar (Colombia)
+5406 xxxx xxxx xxxx - MasterCard - Granahorrar (Colombia)
+5xxx xxxx xxxx xxxx - MasterCard/Access/Eurocard
+6013 xxxx xxxx xxxx - Discover - MBNA Bank
+6011 xxxx xxxx xxxx - Discover 
